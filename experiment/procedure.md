@@ -22,7 +22,7 @@ To study the mechanical properties of cast iron specimen under compression.
 6. Sample is dragged to be placed in the UTM and a dial gauge is mounted. Click on the knob of dial gauge to adjust it to zero.  
    [<img src="./images/proc6.png" width="800" height="600" />](./images/proc6.png)
 
-7. Start the loading process click ON the green button.
+7. Start the loading process click ON the green button.  
    [<img src="./images/proc7.png" width="800" height="600" />](./images/proc7.png)
 
 8. Note down the deflections using dial gauge for corresponding load intervals as the specimen fails the loading is stopped by clicking on the red button. There is option to download the dial gauge reading.  
