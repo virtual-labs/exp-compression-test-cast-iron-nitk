@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In brittle failure, the specimen shears off a plane at angle of 45 degree to normal, this is due to",
+      "answers": {
+        "a": "Plane experiences bending",
+        "b": "Plane experiences torsion",
+        "c": "Plane experiences shear",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Materials having same elastic properties in all directions are called",
+      "answers": {
+        "a": "Isotropic",
+        "b": "Ideal material",
+        "c": "Uniform",
+        "d": "Elastic material"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "During compression test on cast iron, the failure occurs i.e. the crack appears along the",
+      "answers": {
+        "a": "Diagonal",
+        "b": "Surface parallel to load applied",
+        "c": "Surface perpendicular to load applied",
+        "d": "Any of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The specimen that would exhibit the least reduction in its cross sectional area at the point of failure would be<br><img src='images/q16-5.png'/>",
+      "answers": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The group of materials that vary significantly in their compressive and tensile strength is",
+      "answers": {
+        "a": "Brass and mild steel",
+        "b": "Mild steel and ceramics",
+        "c": "Cast iron and ceramics",
+        "d": "Cast iron and Brass"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In compression test, fracture in cast iron specimen would occur along",
+      "answers": {
+        "a": "Right angle to axis of specimen",
+        "b": "Axis of load",
+        "c": "An oblique plane",
+        "d": "Parallel to axis of specimen"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "In compression testing increasing in buckling is due to",
+      "answers": {
+        "a": "Increase in length to diameter ratio",
+        "b": "Decrease in length to diameter ratio",
+        "c": "Doesn't depend on length to diameter ratio",
+        "d": "No buckling"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Brittle materials are generally",
+      "answers": {
+        "a": "weak-compression; strong-tension",
+        "b": "weak-tension; strong -compression",
+        "c": "strong in both tension and compression",
+        "d": "weak in both tension and compression"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Gold, cast irons, copper are ductile materials. Silver, concrete are brittle materials.(Say true or false)",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The shape of specimen used in compression test is<ol><li>i. Cube </li><li>ii. Cylinder</li><li>iii. Cuboid</li><li>iv. Prism</li></ol></br>",
+      "answers": {
+        "a": "Only i",
+        "b": "i & ii",
+        "c": "i, ii, & iii",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
